@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/solo_study01/.vs
