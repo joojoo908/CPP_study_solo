@@ -31,3 +31,8 @@
 *.out
 *.app
 /solo_study01/.vs
+solo_study01/solo_study01/solo_study01.vcxproj
+solo_study01/solo_study01/solo_study01.vcxproj.filters
+solo_study01/solo_study01/solo_study01.vcxproj.user
+/solo_study01/solo_study01/x64
+solo_study01/x64/Debug/solo_study01.pdb
