@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+
+#include "stdafx.h"
 
 // 몇 개의 간단한 함수 정의
 int add(int a, int b) {
